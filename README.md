@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jay Patel
-- 👀 I’m interested Kafka, Kafka Connect, Event Streaming and OSS
+- 👀 I’m interested Kafka, Kafka Connect, Streaming Ingestion and OSS
 - 📫 How to reach me: [@jaympatel1893](https://twitter.com/jaympatel1893) 
 
 <!---
