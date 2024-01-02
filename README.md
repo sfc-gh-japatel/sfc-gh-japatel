@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Jay Patel
+- I have contributed in https://github.com/snowflakedb/snowflake-kafka-connector, Snowpipe Streaming and Snowpipe at Snowflake. 
 - 👀 I’m interested Kafka, Kafka Connect, Streaming Ingestion and OSS
 - 📫 How to reach me: [@jaympatel1893](https://twitter.com/jaympatel1893) 
 
